@@ -2,6 +2,8 @@
 manager:  carmonm 
 ms.topic:  metaFile
 ms.search.industry: anotherTag
+ms.search.region: anotherTagregion
+ms.audience: anotherTagaudience
 author:  rpsqrd 
 ms.author:  ryanpu
 ms.prod:  powershell
