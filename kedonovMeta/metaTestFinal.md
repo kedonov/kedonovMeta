@@ -1,6 +1,7 @@
 ---
 manager:  carmonm 
-ms.topic:  metaFile 
+ms.topic:  metaFile
+ms.search.industry: anotherTag
 author:  rpsqrd 
 ms.author:  ryanpu
 ms.prod:  powershell
