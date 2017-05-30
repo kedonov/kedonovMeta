@@ -3,7 +3,7 @@ manager:  carmonm
 ms.topic:  metaFile
 ms.search.industry: anotherTag
 ms.search.region: anotherTagregion
-ms.audience: anotherTagaudience
+ms.audience: anotherTagaudience2
 author:  rpsqrd 
 ms.author:  ryanpu
 ms.prod:  powershell
