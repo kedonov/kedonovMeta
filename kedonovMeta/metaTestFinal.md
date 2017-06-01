@@ -4,6 +4,7 @@ ms.topic:  metaFile
 ms.search.industry: anotherTag
 ms.search.region: anotherTagregion
 ms.audience: anotherTagaudience1, anotherTagaudience2, anotherTagaudience3, anotherTagaudience4
+audience: aFinalTest
 author:  rpsqrd 
 ms.author:  ryanpu
 ms.prod:  powershell
